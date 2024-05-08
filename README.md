@@ -1,36 +1,36 @@
 <div align="center">
-  <h1>C Programming Note for Hablu Programmers</h1>
+  <h1>MD JAHANGIR ALAM</h1>
 
 <!-- Badges -->
 <p>
-  <a href="https://github.com/harun181/c_programming/graphs/contributors">
+  <a href="https://github.com/jahangirobscure/c_programming/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
   </a>
-  <a href="https://github.com/harun181/c_programming/graphs/commit-activity">
+  <a href="https://github.com/jahangirobscure/c_programming/graphs/commit-activity">
     <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
   </a>
-  <a href="https://github.com/harun181/c_programming/network/members">
+  <a href="https://github.com/jahangirobscure/c_programming/network/members">
     <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
   </a>
-  <a href="https://github.com/harun181/c_programming/stargazers">
+  <a href="https://github.com/jahangirobscure/c_programming/stargazers">
     <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
   </a>
-  <a href="https://github.com/harun181/c_programming/issues/">
+  <a href="https://github.com/jahangirobscure/c_programming/issues/">
     <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
   </a>
-  <a href="https://github.com/harun181/c_programming/blob/master/LICENSE">
+  <a href="https://github.com/jahangirobscure/c_programming/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
   </a>
 </p>
 
 <h4>
-    <a href="https://github.com/harun181/c_programming">View Demo</a>
+    <a href="https://github.com/jahangirobscure/c_programming">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/harun181/c_programming">Documentation</a>
+    <a href="https://github.com/jahangirobscure/c_programming">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/harun181/c_programming/issues/">Report Bug</a>
+    <a href="https://github.com/jahangirobscure/c_programming/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/harun181/c_programming/issues/">Request Feature</a>
+    <a href="https://github.com/jahangirobscure/c_programming/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -42,14 +42,14 @@
 
 In This Projects I will solve 100+ Beginner to Advance Level Problem By C programming Language.
 <br>
-[Preview Here](https://github.com/harun181/c_programming)
+[Preview Here](https://github.com/jahangirobscure/c_programming)
 
 <!-- Screenshots -->
 
 ### :camera: Screenshots
 
 <div align="center">
-  <img src="https://github.com/harun181/harun181/raw/main/code.png" alt="screenshot" />
+  <img src="https://github.com/jahangirobscure/jahangirobscure/raw/main/code.png" alt="screenshot" />
 </div>
 
 <!-- TechStack -->
@@ -160,7 +160,7 @@ To run tests, run the following command
 Clone the project
 
 ```bash
-  git clone https://github.com/harun181/c_programming
+  git clone https://github.com/jahangirobscure/c_programming
 ```
 
 Go to the project directory
@@ -216,7 +216,7 @@ function App() {
 
 ## :wave: Contributing
 
-<a href="https://github.com/harun181/c_programming/graphs/contributors">
+<a href="https://github.com/jahangirobscure/c_programming/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
 </a>
 
@@ -228,7 +228,7 @@ See `contributing.md` for ways to get started.
 
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/harun181/c_programming)
+Please read the [Code of Conduct](https://github.com/jahangirobscure/c_programming)
 
 <!-- FAQ -->
 
@@ -254,7 +254,7 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 Your Name - [@tutul181](https://twitter.com/tutul181) - mdtutul763@gmail.com
 
-Project Link: [https://github.com/harun181/c_programming](https://github.com/harun181/c_programming)
+Project Link: [https://github.com/jahangirobscure/c_programming](https://github.com/jahangirobscure/c_programming)
 
 <!-- Acknowledgments -->
 
